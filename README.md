@@ -13,13 +13,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sb-exe-calismayi-durdurdu&theme=dark" alt="sb-exe" /></p>
 
-
-
-
-
-
-<br><br><br>
-
-<h2>COMMUNICATION</h2>
-
-esocraton@gmail.com
