@@ -1,20 +1,3 @@
-
-<h2>STATS</h2>
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sb-exe-calismayi-durdurdu&layout=pie&theme=dark)](https://github.com/esocraton/github-readme-stats)
-
-<br>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sb-exe-calismayi-durdurdu&show_icons=true&theme=dark)
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sb-exe-calismayi-durdurdu&theme=dark" alt="sb-exe" /></p>
-
-<br>
-
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
@@ -46,14 +29,6 @@
         </a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=sb-exe-calismayi-durdurdu&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
   </tr>
 </table>
 <br />
@@ -63,3 +38,21 @@
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sb-exe-calismayi-durdurdu&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
+
+
+<br>
+
+<h2>STATS</h2>
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sb-exe-calismayi-durdurdu&layout=pie&theme=dark)](https://github.com/esocraton/github-readme-stats)
+
+<br>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sb-exe-calismayi-durdurdu&show_icons=true&theme=dark)
+
+<br>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sb-exe-calismayi-durdurdu&theme=dark" alt="sb-exe" /></p>
