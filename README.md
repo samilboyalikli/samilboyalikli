@@ -13,7 +13,7 @@
       <br />
       <p align="center">
         <a href="https://github.com/samilboyalikli">
-          <img align="center" src="https://streak-stats.demolab.com?user=samilboyalikli&theme=nightowl" alt="Streak Stats" />
+          <img align="center" src="" alt="Streak Stats" />
         </a>
       </p>
       <br>
